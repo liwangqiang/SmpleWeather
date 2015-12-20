@@ -3,7 +3,8 @@
 #Practice for more advanced topics
 
 ###TODO:
-* 	Replace code UI with storyboard.
+* Replace code UI with storyboard.
+* Data Persistence
 *	Update MVVM for architecture.
 *	Use Kiwi to Unit Test.
 
